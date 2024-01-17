@@ -1,3 +1,7 @@
+import random
+import cvlearn
+'''asd'''
+
 import pygame
 print('py')
 print('python')
