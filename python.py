@@ -14,4 +14,8 @@ print('kotlin')
 
 print ('new kotlin')
 
-#here @ 8:33
+
+print("k jio")
+123*234
+print("hi")*8
+#8here @ 8:33
