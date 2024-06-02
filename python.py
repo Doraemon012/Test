@@ -12,6 +12,9 @@ print('kotlin')
 '''added new kotlin'''
 123
 
+print ('new kotlin')
+
+
 print("k jio")
 123*234
 print("hi")*8
