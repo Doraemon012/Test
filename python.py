@@ -11,4 +11,7 @@ print('kotlin')
 print('kotlin')
 '''added new kotlin'''
 123
+
+print ('new kotlin')
+
 #here @ 8:33
